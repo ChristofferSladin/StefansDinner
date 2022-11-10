@@ -90,7 +90,6 @@ public class Cat : IDinnerGuest
     {
 
     }
-
 }
 
 public class Phone : IDinnerGuest
